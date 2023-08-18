@@ -1,0 +1,3 @@
+unicast-it is only send to one node
+multicast-it is used to multiple node
+broadcast-one node will send to all nodes.
